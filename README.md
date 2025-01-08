@@ -1,8 +1,26 @@
-# React + Vite
+# Vitest Ready Vite Starter
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a Vitest ready Vite starter project inspired by the following resources:
 
-Currently, two official plugins are available:
+- [Vitest with React Testing Library in React created with Vite](https://victorbruce82.medium.com/vitest-with-react-testing-library-in-react-created-with-vite-3552f0a9a19a)
+- [Vitest and React Testing Library](https://www.robinwieruch.de/vitest-react-testing-library/)
+- [Vitest Comparisons](https://vitest.dev/guide/comparisons.html)
+- [Vite Guide](https://vitejs.dev/guide/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Install
+
+```bash
+npm install
+```
+
+# Run Development Server
+
+```bash
+npm run dev
+```
+
+# Run Tests
+
+```bash
+npm run test
+```
